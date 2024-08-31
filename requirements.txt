@@ -1,0 +1,7 @@
+langchain
+huggingface_hub
+sentence_transformers
+selenium
+beautifulsoup4
+webdriver_manager
+faiss-cpu
